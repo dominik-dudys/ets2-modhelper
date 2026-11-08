@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local, never commit
+.claude/settings.local.json
+/local/
+*.scs
+
+# IDEs
+.idea/
+.vscode/
